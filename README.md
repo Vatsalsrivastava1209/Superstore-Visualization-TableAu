@@ -1,10 +1,16 @@
 ![image](https://github.com/user-attachments/assets/19615e5c-f832-4b74-970e-d9078f4e2b7f)
+
+
 **📖 Project Summary**
 This project features a comprehensive and interactive sales dashboard for the classic Superstore dataset, built using Tableau. The primary goal is to provide a clear, at-a-glance overview of business performance, identify key trends, and uncover actionable insights related to sales, profit, and customer behavior across different regions and product categories.
 
 This dashboard is designed for business stakeholders, such as sales managers and marketing analysts, to enable data-driven decision-making.
 
+
+
 **✨ Key Features & Analysis**
+
+
 Executive KPI Summary: Top-level metrics for Total Sales, Profit, Orders, and Profit Ratio.
 
 Geographical Analysis: A map visualization to track sales and profit performance across all states.
